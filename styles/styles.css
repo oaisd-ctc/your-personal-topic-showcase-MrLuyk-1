@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(199, 214, 228);
+    color: blue;
+    margin: 0;
+}
+
+html {
+    margin-top: -40px;
+}
+
+header {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-style: bold;
+    text-decoration: underline;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: lightgrey;
+}
+
